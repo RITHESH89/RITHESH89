@@ -1,9 +1,5 @@
 # 💫 About Me:
 
-I am graduate
-
-I am a fresher
-
 I want to become an AI expert engineering
 
 
