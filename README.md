@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I want to become an AI expert engineering
+I want to become an AI engineer
 
 
 
