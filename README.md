@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-I want to become an AI engineer
+| I want to become an AI engineer
 / I like to work in production company
-
+/ I need a better opportunity 
 
 
 # 💻 Tech Stack:
