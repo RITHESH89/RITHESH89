@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 I want to become an AI engineer
-/i like to work in production company
+/ I like to work in production company
 
 
 
