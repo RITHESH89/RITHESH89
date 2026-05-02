@@ -1,7 +1,11 @@
+## 💫 About me
+
 # Hi, I'm Rithesh 👋
 
-🚀 Aspiring AI Engineer | Machine Learning | Deep Learning  
-  Passionate about building real-world AI solutions  
+🚀 Aspiring AI Engineer |
+Machine Learning |
+Deep Learning  
+ Passionate about building real-world AI solutions  
 
 ##  Featured Projects
 
