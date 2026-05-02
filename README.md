@@ -3,6 +3,20 @@
 🚀 Aspiring AI Engineer | Machine Learning | Deep Learning  
   Passionate about building real-world AI solutions  
 
+##  Featured Projects
+
+### 🧠 LLM RAG Assistant
+- AI chatbot using LLM + vector search
+- Context-aware answers from documents
+- Tech: Python, LangChain, FAISS  
+
+### 💳 Fraud Detection System
+- ML model to detect fraudulent transactions
+- Accuracy: 92%
+- Tech: Scikit-learn, Pandas  
+
+
+
 
 
 
