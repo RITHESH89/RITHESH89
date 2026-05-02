@@ -1,14 +1,10 @@
-# 💫 About Me:
+# Hi, I'm Rithesh 👋
 
-| I want to become an AI engineer
-/B.com Graduate
-/Data Scintist
-/Python
-/Machine Learning
-/Deep Learning
-/SQL
-/Power BI
-/Tableau
+🚀 Aspiring AI Engineer | Machine Learning | Deep Learning  
+  Passionate about building real-world AI solutions  
+
+
+
 
 
 # 💻 Tech Stack:
