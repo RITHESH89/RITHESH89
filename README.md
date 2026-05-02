@@ -34,8 +34,6 @@ Deep Learning
 ⭐ Always learning and building in AI
 
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b27f1672-c238-4456-a819-53f9e7b9d2a6" />
-
 
 
 # 💻 Tech Stack:
