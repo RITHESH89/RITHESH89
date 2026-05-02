@@ -15,7 +15,19 @@
 - Accuracy: 92%
 - Tech: Scikit-learn, Pandas  
 
+## 🛠️ Tech Stack
+- Python, SQL  
+- Machine Learning, Deep Learning, NLP  
+- Pandas, NumPy, Scikit-learn  
+- Git, GitHub  
 
+
+
+## 💌 Connect with Me
+- Gmail: ritheshasowda@gmail.com  
+- LinkedIn: your-link  
+
+⭐ Always learning and building in AI
 
 
 
