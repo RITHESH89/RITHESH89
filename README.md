@@ -8,7 +8,7 @@
 - 🔭 Currently building **LLM & RAG-based applications**  
 - 🌱 Learning **Deep Learning, MLOps & System Design**  
 - 💡 Passionate about solving real-world problems using AI  
-- 🎯 Goal: Land a **10+ LPA AI Engineer role**
+- 🎯 Goal: Land a **Build a scalable AI startup that solves real-world problems**
 
 ---
 
