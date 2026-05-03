@@ -1,3 +1,119 @@
+<h1 align="center">Hi 👋, I'm Rithesh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Data+Scientist;Building+LLM+%26+RAG+Projects;Future+10%2B+LPA+Engineer;Always+Learning+%F0%9F%9A%80" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 B.Com Graduate → Transitioning into **AI Engineer**
+- 🧠 Focused on **LLM, RAG & Real-World AI Systems**
+- 🔭 Currently building **production-level AI projects**
+- 🌱 Learning **Deep Learning, MLOps & System Design**
+- 🎯 Goal: Crack a **10+ LPA AI/Data Science role**
+
+---
+
+## ⚡ Tech Stack
+
+### 🧑‍💻 Languages & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode" />
+</p>
+
+### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+### 🧠 LLM & Tools
+<p>
+<img src="https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+</p>
+
+### 🌐 Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,streamlit" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 LLM RAG Assistant
+- 🔍 Retrieval-Augmented Generation using **LangChain + FAISS**
+- 📄 Ask questions from custom documents
+- ⚡ Real-world AI assistant pipeline
+
+### 🔹 AI Financial Analyst
+- 📊 LLM-based financial insights generator
+- 📈 Automated reports & summaries
+
+### 🔹 ML Prediction System
+- 🧪 End-to-end ML pipeline
+- 📊 Data preprocessing → Model → Evaluation → Deployment
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RITHESH89&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RITHESH89&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RITHESH89&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Current Focus
+- 🔥 Building **LLM + RAG Production Projects**
+- ⚡ Improving **DSA & Problem Solving**
+- 🚀 Learning **MLOps & Deployment**
+
+---
+
+## 🏆 Achievements
+- 🚀 Multiple AI/ML projects built
+- 📚 Self-learned AI Engineer path
+- 🎯 Targeting high-paying AI roles
+
+---
+
+## 📫 Connect With Me
+<p>
+<a href="https://github.com/RITHESH89"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+<a href="YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 🔥 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RITHESH89&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 💡 Quote
+<p align="center">
+  <i>"Discipline + Consistency = High Income Skills 💰"</i>
+</p>
+
+---
+
+⭐ **If you like my work, give a star to my repositories!**
+
+
 ## 💫 About me
 
 # Hi, I'm Rithesh 👋
