@@ -1,84 +1,95 @@
 <h1 align="center">Hi 👋, I'm Rithesh</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Data+Scientist;Building+LLM+%26+RAG+Projects;Future+10%2B+LPA+Engineer;Always+Learning+%F0%9F%9A%80" />
-</p>
+<h3 align="center">🚀 AI Engineer | Data Scientist | Building Real-World AI Systems</h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Com Graduate → Transitioning into **AI Engineer**
-- 🧠 Focused on **LLM, RAG & Real-World AI Systems**
-- 🔭 Currently building **production-level AI projects**
-- 🌱 Learning **Deep Learning, MLOps & System Design**
-- 🎯 Goal: Crack a **10+ LPA AI/Data Science role**
+## 🧠 About Me
+- 🎓 B.Com Graduate transitioning into AI & Data Science  
+- 🔭 Currently building **LLM & RAG-based applications**  
+- 🌱 Learning **Deep Learning, MLOps & System Design**  
+- 💡 Passionate about solving real-world problems using AI  
+- 🎯 Goal: Land a **10+ LPA AI Engineer role**
 
 ---
 
 ## ⚡ Tech Stack
 
-### 🧑‍💻 Languages & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode" />
-</p>
+### 👨‍💻 Programming & Tools
+- Python 🐍
+- SQL 🗄️
+- Git & GitHub 🔧
 
-### 🤖 AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
+### 🤖 AI / Machine Learning
+- Machine Learning (Scikit-learn)
+- Deep Learning (TensorFlow, PyTorch)
+- Natural Language Processing (NLP)
 
-### 🧠 LLM & Tools
-<p>
-<img src="https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-</p>
+### 🧠 LLM & AI Tools
+- OpenAI API
+- LangChain
+- RAG (Retrieval-Augmented Generation)
+- Vector Databases (FAISS)
 
-### 🌐 Deployment
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit" />
-</p>
+### 🌐 Deployment & Apps
+- Streamlit
+- FastAPI
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 LLM RAG Assistant
-- 🔍 Retrieval-Augmented Generation using **LangChain + FAISS**
-- 📄 Ask questions from custom documents
-- ⚡ Real-world AI assistant pipeline
+- Built an AI assistant using **LangChain + FAISS**
+- Retrieves and answers from custom documents
+- End-to-end pipeline (embedding → retrieval → generation)
 
 ### 🔹 AI Financial Analyst
-- 📊 LLM-based financial insights generator
-- 📈 Automated reports & summaries
+- LLM-powered system to analyze financial data
+- Generates insights & summaries automatically
 
-### 🔹 ML Prediction System
-- 🧪 End-to-end ML pipeline
-- 📊 Data preprocessing → Model → Evaluation → Deployment
+### 🔹 Machine Learning Prediction System
+- End-to-end ML project with preprocessing, training & deployment
+- Includes evaluation metrics & visualization
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RITHESH89&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RITHESH89&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RITHESH89&show_icons=true&theme=radical" alt="stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RITHESH89&theme=radical" alt="streak" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RITHESH89&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RITHESH89&theme=react-dark" />
 </p>
 
 ---
 
-## 🧠 Current Focus
-- 🔥 Building **LLM + RAG Production Projects**
-- ⚡ Improving **DSA & Problem Solving**
-- 🚀 Learning **MLOps & Deployment**
+## 🏆 Achievements & Goals
+- 🚀 Built multiple **AI & ML projects**
+- 📚 Continuously learning advanced AI concepts
+- 🎯 Preparing for **top AI/Data Science roles**
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/RITHESH89  
+- LinkedIn: (Add your link here)
+
+---
+
+## 💡 Quote
+> “Consistency beats talent when talent doesn’t work hard.”
+
+---
+
+⭐ *If you like my work, consider giving a star to my projects!*
 
 ---
 
