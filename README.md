@@ -80,7 +80,7 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/RITHESH89  
-- LinkedIn:https:/linkedin.com/in/rithesh-5a8575o 
+- LinkedIn: https://linkedin.com/in/rithesh-5a8575o 
 
 
 ---
